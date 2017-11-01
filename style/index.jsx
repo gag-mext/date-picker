@@ -1,0 +1,1 @@
+import '@gag/picker/style/';
